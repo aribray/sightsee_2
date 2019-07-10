@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Sightsee_2</string>
     <string name="title_activity_maps">Map</string>
+    <string name="title_location_permission">Please Grant Permission!</string>
+    <string name="text_location_permission">We need location permissions in order to show you the best places to sightsee!</string>
+    <string name="ok">Thanks!</string>
 </resources>
